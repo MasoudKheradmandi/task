@@ -1,6 +1,6 @@
 
-# این تسک ها با همکاری اقای خردمندی حل شده است
-https://github.com/MasoudKheradmandi 
+# این تسک ها با همکاری اقای کریمی حل شده است
+[لینک گیت هاب ایشون](https://github.com/erfan-karimii/)
 
 
 برای step 1 :
